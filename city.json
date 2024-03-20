@@ -1,0 +1,5 @@
+{
+  "name":"Stockholm",
+  "description":"coolest city in sweden",
+  "location": [12.23, 32.10]
+}

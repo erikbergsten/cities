@@ -1,0 +1,257 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0686,
+                    59.3293
+                ]
+            },
+            "properties": {
+                "name": "Stockholm",
+                "description": "The capital city of Sweden, known for its beautiful archipelago and historic sites."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9746,
+                    57.7089
+                ]
+            },
+            "properties": {
+                "name": "Gothenburg",
+                "description": "A major city in Sweden known for its Dutch-style canals and leafy boulevards."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0038,
+                    55.605
+                ]
+            },
+            "properties": {
+                "name": "Malm\u00f6",
+                "description": "The largest city in southern Sweden, known for its modern architecture and diverse culture."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6389,
+                    59.8586
+                ]
+            },
+            "properties": {
+                "name": "Uppsala",
+                "description": "A city rich in history, home to the oldest university in Sweden, Uppsala University."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5448,
+                    59.6111
+                ]
+            },
+            "properties": {
+                "name": "V\u00e4ster\u00e5s",
+                "description": "One of the oldest cities in Sweden and Northern Europe."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2134,
+                    59.2753
+                ]
+            },
+            "properties": {
+                "name": "\u00d6rebro",
+                "description": "Known for its beautiful castle situated on an island in the river Svart\u00e5n."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6214,
+                    58.4109
+                ]
+            },
+            "properties": {
+                "name": "Link\u00f6ping",
+                "description": "A city known for its university and its high-technology industry."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6945,
+                    56.0467
+                ]
+            },
+            "properties": {
+                "name": "Helsingborg",
+                "description": "A coastal city in Sweden, known for its beaches and historical buildings."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1618,
+                    57.7815
+                ]
+            },
+            "properties": {
+                "name": "J\u00f6nk\u00f6ping",
+                "description": "Situated by the southern end of Sweden's second largest lake, V\u00e4ttern."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1826,
+                    58.5942
+                ]
+            },
+            "properties": {
+                "name": "Norrk\u00f6ping",
+                "description": "Known for its textile industry and also as a logistical hub."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2597,
+                    63.8258
+                ]
+            },
+            "properties": {
+                "name": "Ume\u00e5",
+                "description": "A city known for its university and cultural life, located by the Ume River."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1462,
+                    65.5848
+                ]
+            },
+            "properties": {
+                "name": "Lule\u00e5",
+                "description": "A coastal city in Norrbotten, known for its technology university and steel production."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9509,
+                    64.7502
+                ]
+            },
+            "properties": {
+                "name": "Skellefte\u00e5",
+                "description": "Known for its historical association with the gold rush and a growing technology hub."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6361,
+                    63.1792
+                ]
+            },
+            "properties": {
+                "name": "\u00d6stersund",
+                "description": "The only city on the Swedish mainland located on an island, and the seat of J\u00e4mtland County."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3063,
+                    62.3908
+                ]
+            },
+            "properties": {
+                "name": "Sundsvall",
+                "description": "A city known for its stone city center that was rebuilt after a fire in the 19th century."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4803,
+                    65.3172
+                ]
+            },
+            "properties": {
+                "name": "Pite\u00e5",
+                "description": "A locality and the seat of Pite\u00e5 Municipality, known for its choir and music traditions."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2253,
+                    67.8557
+                ]
+            },
+            "properties": {
+                "name": "Kiruna",
+                "description": "The northernmost city in Sweden, known for its iron ore mine and proximity to the Arctic."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9417,
+                    62.6322
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4rn\u00f6sand",
+                "description": "A city with a rich history and the seat of V\u00e4sternorrland County."
+            }
+        }
+    ]
+}
